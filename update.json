@@ -1,7 +1,6 @@
 {
-  "_readme": "ไฟล์ประกาศเวอร์ชันของ Master Farm TS — โปรแกรมบนเครื่องลูกค้าอ่านไฟล์นี้เพื่อเช็คว่ามีเวอร์ชันใหม่ไหม อัปเดตเลข version + ใส่ลิงก์ zip + sha256 ทุกครั้งที่ปล่อยเวอร์ชันใหม่ (ใช้ tools/build_release.py สร้าง zip)",
-  "version": "1.0.0",
-  "url": "",
-  "sha256": "",
-  "notes": "เวอร์ชันแรก"
+  "version": "1.0.1",
+  "url": "https://github.com/warrakit/master-farm-ts-updates/releases/download/v1.0.1/MasterFarmTS-Setup-1.0.1.exe",
+  "sha256": "447bbecc76ae8f4f40ecb035c1d85fa6c830c5111558a093ce1e92bb592c4e87",
+  "notes": "แก้ปุ่มเลือกไฟล์/โฟลเดอร์กดแล้วไม่มีอะไรเกิดขึ้น (เปลี่ยนนางแบบ เลือกคลิป ตั้งค่าครั้งแรก) + ปุ่มอัปเดตติดตั้งตัวใหม่ให้เองแล้ว"
 }
