@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "url": "https://github.com/warrakit/master-farm-ts-updates/releases/download/v1.0.4/MasterFarmTS-Setup-1.0.4.exe",
-  "sha256": "07e3dc9625305c43000a6e37ae4fc47ca82a7bdc9d43715f6b3b74d9c3cb516d",
-  "notes": "แก้กดปุ่มอัปเดตแล้วเวอร์ชันไม่เปลี่ยน"
+  "version": "1.0.5",
+  "url": "https://github.com/warrakit/master-farm-ts-updates/releases/download/v1.0.5/MasterFarmTS-Setup-1.0.5.exe",
+  "sha256": "6ed896d8c410694d23b773d7b174ad8833834e33235c5a168e6f350d95a1b652",
+  "notes": "แก้กดปุ่มอัปเดตแล้วเวอร์ชันไม่เปลี่ยน — ตอนนี้ติดตั้งตัวใหม่ให้เองแล้วเปิดกลับมาให้"
 }
