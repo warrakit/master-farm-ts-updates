@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/warrakit/master-farm-ts-updates/releases/download/v1.0.2/MasterFarmTS-Setup-1.0.2.exe",
-  "sha256": "28a2de2ad1ac4447003621fa894c73f59a0ae31d01d263bb6f5eb68068de6d21",
-  "notes": "ทดสอบระบบอัปเดตอัตโนมัติ (ไม่มีการเปลี่ยนแปลงการใช้งาน)"
+  "version": "1.0.3",
+  "url": "https://github.com/warrakit/master-farm-ts-updates/releases/download/v1.0.3/MasterFarmTS-Setup-1.0.3.exe",
+  "sha256": "ea80d575fb0878fe1e8949aa58ac8031958046fb187889f3c7210945869a0dc1",
+  "notes": "กดตรวจอัปเดตแล้วเห็นเวอร์ชันล่าสุดทันที (เดิมติดแคช ต้องรอ 5 นาที)"
 }
